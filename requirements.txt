@@ -1,0 +1,7 @@
+google-auth==2.29.0
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+google-api-python-client==2.138.0
+langchain==0.2.14
+langchain-community==0.2.12
+python-dotenv==1.0.1
