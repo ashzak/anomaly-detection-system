@@ -15,7 +15,7 @@ A comprehensive machine learning system for detecting anomalies using multiple a
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/ashzak/anomaly-detection-system.git
 cd anomaly-detection-system
 ```
 
